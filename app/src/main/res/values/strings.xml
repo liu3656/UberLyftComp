@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">UberLyftComp</string>
-
+    <string name="autocomplete_hint">Enter place name or address</string>
+    <string name="origin_text">Set as origin</string>
+    <string name="dest_text">Set as destination</string>
+    <string name="originTv">Origin:</string>
+    <string name="destTv">Destination:</string>
+    <string name="comp_text">Compare</string>
+    <string name="notInput">Not input yet</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_comp_activity">Comp_activity</string>
 </resources>
